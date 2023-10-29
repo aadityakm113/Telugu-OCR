@@ -1,2 +1,2 @@
 # Telugu-OCR
-Optical Character Recognition that extracts Telugu text from Images and translates it to English
+An Optical Character Recognition program made using Python that extracts Telugu text from Images and translates it to English
